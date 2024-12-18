@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # toku
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# japanese-app
+>>>>>>> b874f3254f8e5692e94cccc6dc72474090442661
