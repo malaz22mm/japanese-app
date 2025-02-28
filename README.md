@@ -7,6 +7,7 @@ It's help you to learn numbers ,family members ,colors and some phrases in japan
 
 # MALAZ
 
+![large.png](android%2Fapp%2Fsrc%2Fmain%2Fres%2Fmipmap-hdpi%2Fjapan.png)
 
 
 
